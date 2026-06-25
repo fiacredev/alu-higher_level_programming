@@ -1,6 +1,6 @@
 # Higher Level Programming
 
-This repository is the start of my intranet higher level programming project. Specifically i am starting with _Python_ and I will proceed with _SQL_ database in upcoming projects.
+This repository represents the first phase of my Higher Level Programming intranet project. The current focus is on Python programming, with SQL database implementation planned for subsequent development
 
 ```bash
 Python Version used: 3.11.4
